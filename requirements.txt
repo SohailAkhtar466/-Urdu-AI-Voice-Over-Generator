@@ -1,5 +1,4 @@
-
-# libraried
+# install libraries
 
 streamlit
 edge-tts
