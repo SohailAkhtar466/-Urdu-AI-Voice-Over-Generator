@@ -1,1 +1,6 @@
 
+# libraried
+
+streamlit
+edge-tts
+pyngrok
